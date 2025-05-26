@@ -1,3 +1,10 @@
+ /*
+ * Name: Shashank U
+ * USN: 1BM23CS314
+ * Lab: Operating Systems Lab CIE
+ * Program: Worst Fit Memory Allocation with Deallocation and fragmentation 
+ */
+
 #include<stdio.h>
 #include<stdlib.h>
 
